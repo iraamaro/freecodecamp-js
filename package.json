@@ -1,0 +1,16 @@
+{
+  "name": "freecodecamp-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ivan A. <iramaro@disroot.org>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "scripts": {
+    "test": "jest /tests"
+  }
+}
